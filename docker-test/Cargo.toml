@@ -1,0 +1,8 @@
+[package]
+name = "docker-test"
+version = "0.1.0"
+authors = ["Mike Goddard"]
+
+[dependencies]
+getopts = "0.2.14"
+shiplift = "0.3"
